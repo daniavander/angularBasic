@@ -1,0 +1,18 @@
+npm install -g @angular/cli
+
+[To update NPM, use the following command:]
+npm install -g npm
+
+[update nde js]
+nvm install node
+
+
+[create project]
+ng new appname
+
+[create component]
+ng g c myComp 
+
+[angular update]
+ng update @angular/cli @angular/core
+ng update @angular/cli @angular/core --allow-dirty
